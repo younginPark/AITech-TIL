@@ -1,3 +1,3 @@
 # AITech-TIL
 Naver Connection Foundation Boostcamp AI Tech
-https://boostcamp.connect.or.kr/
+[boostcamp web page](https://boostcamp.connect.or.kr/)
